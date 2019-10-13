@@ -8,7 +8,7 @@
 
 - [OrgManager](https://github.com/orgmanager) - Supercharge your GitHub organizations! ([Join](https://orgmanager.miguelpiedrafita.com/o/orgmanager))
 - [Open Source Design](https://github.com/opensourcedesign) - Bringing together designers and open source projects, join us on IRC #opensourcedesign. ([Join](https://orgmanager.miguelpiedrafita.com/o/opensourcedesign))
-- [FOSSASIA](https://github.com/fossasia) - Open Technologies in Asia. ([Join](https://github.com/fossasia/fossasia.org/issues/new?title=Join%20FOSSASIA&body=Hi,%20could%20you%20invite%20me%20to%20the%20FOSSASIA%20GitHub%20organization?))
+- [FOSSASIA](https://github.com/fossasia) - Open Technologies in Asia. ([Join](https://orgmanager.miguelpiedrafita.com/o/fossasia))
 - [AppStackTop](https://github.com/AppStackTop) - AppStack. ([Join](https://orgmanager.miguelpiedrafita.com/o/AppStackTop))
 - [LogikIO](https://github.com/LogikIO) - Logik.IO. ([Join](https://orgmanager.miguelpiedrafita.com/o/LogikIO))
 - [miRTop](https://github.com/miRTop) - miRNA transcriptome open project. ([Join](https://orgmanager.miguelpiedrafita.com/o/miRTop))
